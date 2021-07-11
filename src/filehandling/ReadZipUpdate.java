@@ -1,4 +1,4 @@
-package Muttu;
+package filehandling;
 
 import java.io.File;
 import java.io.FileOutputStream;
