@@ -1,0 +1,11 @@
+Name  Point
+Kishan 34
+Amit 23
+Pavan 44
+Sumit 35
+Ajay 35
+Umar 22
+Yonus 22
+Ankit 22
+Anuj 34
+Soma 34

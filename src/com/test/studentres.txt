@@ -1,0 +1,11 @@
+Name Marks Rank
+Pavan 44 1
+Sumit 35 2
+Ajay 35 2
+Kishan 34 4
+Anuj 34 4
+Soma 34 4
+Amit 23 7
+Umar 22 8
+Yonus 22 8
+Ankit 22 8
